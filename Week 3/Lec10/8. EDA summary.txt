@@ -1,0 +1,3 @@
+Saturday has the most records in this dataset, with 87 recorded bills.
+Average bills are higher on Sunday ($21.41) and Saturday ($20.44) than on Thursday ($17.68) and Friday ($17.15).
+Total bill and tip have a positive Pearson correlation of about 0.68, the strongest correlation between different numeric columns here, so larger bills tend to be associated with larger tips.
